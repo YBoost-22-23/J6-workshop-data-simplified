@@ -24,6 +24,10 @@ Pour cela vous allez devoir installer un outil de visualisation de données dont
 
 Surtout amusez-vous et ayez une magnifique visualisation de données :) !
 
+### Inspirations Dataviz :
+- [sur Pinterest](https://pin.it/5o5sYRm)
+- [sur Dribbble](https://dribbble.com/search/dataviz)
+
 ## 🙇 Auteur
 #### Jean-Philippe CAETANO
 - Linkedin: [@Jean-Philippe CAETANO](https://www.linkedin.com/in/jean-philippe-caetano-b30327229/)
